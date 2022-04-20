@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hetumessi, a pure rookie of cs
-- 👀 I’m interested in compilers building
-- 🌱 I’m currently learning Icc and other such of similar projects
+- 👋 Hi, I’m @hetumessi
 - 💞️ my qq:392384886
 - 📫 Thanks for your visiting and best wishes for your advertising!
 
