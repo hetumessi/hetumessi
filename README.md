@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hetumessi
-- 💞️ my qq:392384886
-- 📫 Thanks for your visiting and best wishes for your advertising!
+- 💞️ qq:392384886
+- 📫 这个用户很懒，没有设置任何说明...
 
 <!---
 hetumessi/hetumessi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
